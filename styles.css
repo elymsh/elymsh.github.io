@@ -1,4 +1,3 @@
-
 body, html{
 	width: 100%;
 	height: 100%;
@@ -27,6 +26,9 @@ header.startup hr {
 }
 header.startup h1 {
   font-size: 2rem; 
+}
+form {
+  text-align: center;
 }
 .btn {
   font-weight: 700;
