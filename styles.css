@@ -11,12 +11,7 @@ hr {
   border-width: 3px;
   border-color: rgb(43, 81, 100); 
 }
-#mc_embed_signup form {
-    display: block;
-    position: relative;
-    text-align: center;
-    padding: 10px 0 10px 3%;
-}
+
 .faded {
   color: rgba(255, 255, 255, 0.8); 
 }
